@@ -1,0 +1,9 @@
+[database.alfa]
+    HOST = 'localhost'
+    PORT = 8080
+    POSTGRES_HOST = 'localhost'
+    POSTGRES_PORT = 5432
+    POSTGRES_USER = 'doniyor'
+    POSTGRES_PASSWORD = '7355950d'
+    POSTGRES_DB = 'alfa1'
+
